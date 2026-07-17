@@ -1,4 +1,4 @@
-import StockCallTracker from '../../../StockCallTracker.jsx';
+import StockCallTracker from './StockCallTracker';
 
 function App() {
   return <StockCallTracker />;
